@@ -1,6 +1,6 @@
 # obs - Automatic Identification and Analysis of Basketball Plays
 
-This repository does not contain any code or fine-print details about the following project. It is a placeholder for my Master's Thesis project, which was submitted in partial fulfillment of the requirements for the degree: Master of Computer and Information Science. The thesis was successfully defended on May 8, 2017. For the abstract, please visit http://rave.ohiolink.edu/etdc/view?acc_num=csu14943636475232. For more details about the project and other inquiried, contact me at andrewyu.ysh@gmail.com.
+This repository is a placeholder for my Master's Thesis project, which was submitted in partial fulfillment of the requirements for the degree: Master of Computer and Information Science. The thesis was successfully defended on May 8, 2017. For the abstract, please visit http://rave.ohiolink.edu/etdc/view?acc_num=csu14943636475232. For more details about the project and other inquiried, contact me at andrewyu.ysh@gmail.com.
 
 ## What does the project do?
 
